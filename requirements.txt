@@ -1,0 +1,18 @@
+# python==3.11
+beautifulsoup4
+lxml
+tqdm
+chardet
+langdetect
+pandas
+fasttext-langdetect
+transformers
+huggingface_hub
+jsonargparse
+safetensors
+torch
+torchvision
+torchaudio
+accelerate
+bitsandbytes
+scipy
