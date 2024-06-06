@@ -17,3 +17,4 @@ accelerate
 bitsandbytes
 scipy
 datasets
+qa_metrics

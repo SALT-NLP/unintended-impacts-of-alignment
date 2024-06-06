@@ -39,6 +39,12 @@ To run all experiments run the following script
 TODO: Single Experiment Script
 ```
 
+## Ask Starling Where its From
+Run the "Where From" script
+```
+./scripts/0-where_from_reward_model.sh
+```
+
 ## Dialect Intent Detection
 First download the md3 dataset following the instructions in `/data/md3/md3/README.txt`, [here](data/md3/md3/README.txt).
 
@@ -79,7 +85,19 @@ Run the Global Opinions QA script
 ./scripts/6-globalopinions_experiments.sh
 ```
 
+## Ask Reddit Rewards
+Run the Ask Reddit Country Opinions Reward Modeling script
+```
+./scripts/7-askreddit-rewards.sh
+```
+
 # Process Outputs to Results
+Run the postprocessing script
+```
+./scripts/8-postprocessing.sh
+```
+
+This will take the outputs from `./outputs/` and process them into single csv files in the `./results/` directory
 
 # Process Results to Visuals
 
