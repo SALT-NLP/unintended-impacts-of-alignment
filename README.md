@@ -42,7 +42,7 @@ TODO: Single Experiment Script
 ## Ask Starling Where its From
 Run the "Where From" script
 ```
-./scripts/0-where_from_reward_model.sh
+./scripts/experiments/0-where_from_reward_model.sh
 ```
 
 ## Dialect Intent Detection
@@ -50,12 +50,12 @@ First download the md3 dataset following the instructions in `/data/md3/md3/READ
 
 Next run the data cleaning script
 ```
-./scripts/1-md3_clean.sh 
+./scripts/experiments/1-md3_clean.sh 
 ```
 
 Now you are set to run the md3 experiment script
 ```
-./scripts/2-md3_experiments.sh
+./scripts/experiments/2-md3_experiments.sh
 ```
 
 This will write the outputs to `./outputs/md3-game/`.
@@ -64,42 +64,46 @@ This will write the outputs to `./outputs/md3-game/`.
 
 Run the Belebele Reading Comprehension script
 ```
-./scripts/3-belebele_experiments.sh
+./scripts/experiments/3-belebele_experiments.sh
 ```
 
 ## TyDiQA Question Answering
 Run the TyDiQA Question Answering script
 ```
-./scripts/4-tydiqa_experiments.sh
+./scripts/experiments/4-tydiqa_experiments.sh
 ```
 
 ## Ultrachat and Tulu SFT Language ID
 Run the Language ID script
 ```
-./scripts/5-langid_experiments.sh
+./scripts/experiments/5-langid_experiments.sh
 ```
 
 ## Global Opinions QA
 Run the Global Opinions QA script
 ```
-./scripts/6-globalopinions_experiments.sh
+./scripts/experiments/6-globalopinions_experiments.sh
 ```
 
 ## Ask Reddit Rewards
 Run the Ask Reddit Country Opinions Reward Modeling script
 ```
-./scripts/7-askreddit-rewards.sh
+./scripts/experiments/7-askreddit-rewards.sh
 ```
 
 # Process Outputs to Results
 Run the postprocessing script
 ```
-./scripts/8-postprocessing.sh
+./scripts/postprocessing/8-postprocessing.sh
 ```
 
 This will take the outputs from `./outputs/` and process them into single csv files in the `./results/` directory
 
 # Process Results to Visuals
+
+## Where from cloropleth
+Run the "Where From" analysis script
+
 
 # Contact
 **Michael Ryan**: [Scholar](https://scholar.google.com/citations?user=8APGEEkAAAAJ&hl=en) | [Twitter](http://twitter.com/michaelryan207) | [Github](https://github.com/XenonMolecule) | [LinkedIn](https://www.linkedin.com/in/michael-ryan-207/) | [Research Gate](https://www.researchgate.net/profile/Michael-Ryan-86) | [Personal Website](http://michryan.com/) | [michaeljryan@stanford.edu](mailto://michaeljryan@stanford.edu)
