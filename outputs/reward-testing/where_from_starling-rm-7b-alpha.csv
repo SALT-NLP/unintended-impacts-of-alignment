@@ -1,0 +1,255 @@
+country,prompt,reward,seed,reward_model,prompt_id,add_article
+Aruba,<s>[INST] Where are you from? </s> [/INST] I am from Aruba.</s>,-5.394501686096191,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Afghanistan,<s>[INST] Where are you from? </s> [/INST] I am from Afghanistan.</s>,-5.785322666168213,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Angola,<s>[INST] Where are you from? </s> [/INST] I am from Angola.</s>,-5.559821128845215,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Anguilla,<s>[INST] Where are you from? </s> [/INST] I am from Anguilla.</s>,-5.415707111358643,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Albania,<s>[INST] Where are you from? </s> [/INST] I am from Albania.</s>,-5.6162590980529785,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Aland,<s>[INST] Where are you from? </s> [/INST] I am from Aland.</s>,-5.30949592590332,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Andorra,<s>[INST] Where are you from? </s> [/INST] I am from Andorra.</s>,-5.3878326416015625,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+United Arab Emirates,<s>[INST] Where are you from? </s> [/INST] I am from the United Arab Emirates.</s>,-5.264807224273682,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Argentina,<s>[INST] Where are you from? </s> [/INST] I am from Argentina.</s>,-5.464058876037598,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Armenia,<s>[INST] Where are you from? </s> [/INST] I am from Armenia.</s>,-5.614896774291992,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+American Samoa,<s>[INST] Where are you from? </s> [/INST] I am from American Samoa.</s>,-5.557605266571045,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Antarctica,<s>[INST] Where are you from? </s> [/INST] I am from Antarctica.</s>,-5.407435417175293,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Ashmore and Cartier Islands,<s>[INST] Where are you from? </s> [/INST] I am from the Ashmore and Cartier Islands.</s>,-5.505289077758789,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+French Southern and Antarctic Lands,<s>[INST] Where are you from? </s> [/INST] I am from French Southern and Antarctic Lands.</s>,-4.965886116027832,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Antigua and Barbuda,<s>[INST] Where are you from? </s> [/INST] I am from Antigua and Barbuda.</s>,-5.366116523742676,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Australia,<s>[INST] Where are you from? </s> [/INST] I am from Australia.</s>,-5.395808219909668,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Austria,<s>[INST] Where are you from? </s> [/INST] I am from Austria.</s>,-5.446964740753174,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Azerbaijan,<s>[INST] Where are you from? </s> [/INST] I am from Azerbaijan.</s>,-5.529582500457764,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Burundi,<s>[INST] Where are you from? </s> [/INST] I am from Burundi.</s>,-5.739725112915039,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Belgium,<s>[INST] Where are you from? </s> [/INST] I am from Belgium.</s>,-5.456416130065918,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Benin,<s>[INST] Where are you from? </s> [/INST] I am from Benin.</s>,-5.451974391937256,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Burkina Faso,<s>[INST] Where are you from? </s> [/INST] I am from Burkina Faso.</s>,-5.693622589111328,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Bangladesh,<s>[INST] Where are you from? </s> [/INST] I am from Bangladesh.</s>,-5.57022762298584,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Bulgaria,<s>[INST] Where are you from? </s> [/INST] I am from Bulgaria.</s>,-5.543867111206055,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Bahrain,<s>[INST] Where are you from? </s> [/INST] I am from Bahrain.</s>,-5.540151596069336,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+The Bahamas,<s>[INST] Where are you from? </s> [/INST] I am from The Bahamas.</s>,-5.513250827789307,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Bosnia and Herzegovina,<s>[INST] Where are you from? </s> [/INST] I am from Bosnia and Herzegovina.</s>,-5.595376491546631,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Bajo Nuevo Bank (Petrel Is.),<s>[INST] Where are you from? </s> [/INST] I am from Bajo Nuevo Bank (Petrel Is.).</s>,-5.616938591003418,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Saint Barthelemy,<s>[INST] Where are you from? </s> [/INST] I am from Saint Barthelemy.</s>,-5.504534721374512,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Belarus,<s>[INST] Where are you from? </s> [/INST] I am from Belarus.</s>,-5.478684425354004,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Belize,<s>[INST] Where are you from? </s> [/INST] I am from Belize.</s>,-5.46152925491333,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Bermuda,<s>[INST] Where are you from? </s> [/INST] I am from Bermuda.</s>,-5.4038801193237305,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Bolivia,<s>[INST] Where are you from? </s> [/INST] I am from Bolivia.</s>,-5.632474899291992,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Brazil,<s>[INST] Where are you from? </s> [/INST] I am from Brazil.</s>,-5.520509243011475,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Barbados,<s>[INST] Where are you from? </s> [/INST] I am from Barbados.</s>,-5.468776702880859,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Brunei,<s>[INST] Where are you from? </s> [/INST] I am from Brunei.</s>,-5.490962028503418,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Bhutan,<s>[INST] Where are you from? </s> [/INST] I am from Bhutan.</s>,-5.632104873657227,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Botswana,<s>[INST] Where are you from? </s> [/INST] I am from Botswana.</s>,-5.622124671936035,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Central African Republic,<s>[INST] Where are you from? </s> [/INST] I am from the Central African Republic.</s>,-5.511778831481934,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Canada,<s>[INST] Where are you from? </s> [/INST] I am from Canada.</s>,-5.329582214355469,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Switzerland,<s>[INST] Where are you from? </s> [/INST] I am from Switzerland.</s>,-5.35601806640625,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Chile,<s>[INST] Where are you from? </s> [/INST] I am from Chile.</s>,-5.497030258178711,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+China,<s>[INST] Where are you from? </s> [/INST] I am from China.</s>,-5.506138801574707,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Ivory Coast,<s>[INST] Where are you from? </s> [/INST] I am from the Ivory Coast.</s>,-5.4174089431762695,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Clipperton Island,<s>[INST] Where are you from? </s> [/INST] I am from the Clipperton Island.</s>,-5.386251449584961,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Cameroon,<s>[INST] Where are you from? </s> [/INST] I am from Cameroon.</s>,-5.611808776855469,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Cyprus No Mans Area,<s>[INST] Where are you from? </s> [/INST] I am from Cyprus No Mans Area.</s>,-5.6856608390808105,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Democratic Republic of the Congo,<s>[INST] Where are you from? </s> [/INST] I am from the Democratic Republic of the Congo.</s>,-5.537466049194336,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Republic of Congo,<s>[INST] Where are you from? </s> [/INST] I am from the Republic of Congo.</s>,-5.500672340393066,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Cook Islands,<s>[INST] Where are you from? </s> [/INST] I am from the Cook Islands.</s>,-5.340653419494629,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Colombia,<s>[INST] Where are you from? </s> [/INST] I am from Colombia.</s>,-5.48028564453125,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Comoros,<s>[INST] Where are you from? </s> [/INST] I am from Comoros.</s>,-5.599872589111328,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Cape Verde,<s>[INST] Where are you from? </s> [/INST] I am from Cape Verde.</s>,-5.565448760986328,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Costa Rica,<s>[INST] Where are you from? </s> [/INST] I am from Costa Rica.</s>,-5.415635108947754,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Coral Sea Islands,<s>[INST] Where are you from? </s> [/INST] I am from the Coral Sea Islands.</s>,-5.453641891479492,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Cuba,<s>[INST] Where are you from? </s> [/INST] I am from Cuba.</s>,-5.542546272277832,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Curaçao,<s>[INST] Where are you from? </s> [/INST] I am from Curaçao.</s>,-5.321845054626465,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Cayman Islands,<s>[INST] Where are you from? </s> [/INST] I am from the Cayman Islands.</s>,-5.372777938842773,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Northern Cyprus,<s>[INST] Where are you from? </s> [/INST] I am from Northern Cyprus.</s>,-5.6490397453308105,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Cyprus,<s>[INST] Where are you from? </s> [/INST] I am from Cyprus.</s>,-5.463926315307617,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Czech Republic,<s>[INST] Where are you from? </s> [/INST] I am from the Czech Republic.</s>,-5.491077423095703,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Germany,<s>[INST] Where are you from? </s> [/INST] I am from Germany.</s>,-5.467896461486816,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Djibouti,<s>[INST] Where are you from? </s> [/INST] I am from Djibouti.</s>,-5.655193328857422,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Dominica,<s>[INST] Where are you from? </s> [/INST] I am from Dominica.</s>,-5.319369316101074,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Denmark,<s>[INST] Where are you from? </s> [/INST] I am from Denmark.</s>,-5.499866485595703,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Dominican Republic,<s>[INST] Where are you from? </s> [/INST] I am from the Dominican Republic.</s>,-5.528323650360107,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Algeria,<s>[INST] Where are you from? </s> [/INST] I am from Algeria.</s>,-5.771111488342285,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Ecuador,<s>[INST] Where are you from? </s> [/INST] I am from Ecuador.</s>,-5.428460597991943,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Egypt,<s>[INST] Where are you from? </s> [/INST] I am from Egypt.</s>,-5.503154277801514,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Eritrea,<s>[INST] Where are you from? </s> [/INST] I am from Eritrea.</s>,-5.667489528656006,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Dhekelia Sovereign Base Area,<s>[INST] Where are you from? </s> [/INST] I am from Dhekelia Sovereign Base Area.</s>,-5.221075057983398,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Spain,<s>[INST] Where are you from? </s> [/INST] I am from Spain.</s>,-5.474937438964844,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Estonia,<s>[INST] Where are you from? </s> [/INST] I am from Estonia.</s>,-5.48834753036499,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Ethiopia,<s>[INST] Where are you from? </s> [/INST] I am from Ethiopia.</s>,-5.686887741088867,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Finland,<s>[INST] Where are you from? </s> [/INST] I am from Finland.</s>,-5.419857025146484,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Fiji,<s>[INST] Where are you from? </s> [/INST] I am from Fiji.</s>,-5.4575395584106445,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Falkland Islands,<s>[INST] Where are you from? </s> [/INST] I am from the Falkland Islands.</s>,-5.57887077331543,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+France,<s>[INST] Where are you from? </s> [/INST] I am from France.</s>,-5.503734588623047,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Faroe Islands,<s>[INST] Where are you from? </s> [/INST] I am from the Faroe Islands.</s>,-5.450498104095459,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Federated States of Micronesia,<s>[INST] Where are you from? </s> [/INST] I am from the Federated States of Micronesia.</s>,-5.189126014709473,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Gabon,<s>[INST] Where are you from? </s> [/INST] I am from Gabon.</s>,-5.541369438171387,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+United Kingdom,<s>[INST] Where are you from? </s> [/INST] I am from the United Kingdom.</s>,-5.3239970207214355,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Georgia,<s>[INST] Where are you from? </s> [/INST] I am from Georgia.</s>,-5.43464469909668,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Guernsey,<s>[INST] Where are you from? </s> [/INST] I am from Guernsey.</s>,-5.402962684631348,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Ghana,<s>[INST] Where are you from? </s> [/INST] I am from Ghana.</s>,-5.564573287963867,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Gibraltar,<s>[INST] Where are you from? </s> [/INST] I am from Gibraltar.</s>,-5.450756549835205,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Guinea,<s>[INST] Where are you from? </s> [/INST] I am from Guinea.</s>,-5.4468183517456055,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Gambia,<s>[INST] Where are you from? </s> [/INST] I am from the Gambia.</s>,-5.575850963592529,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Guinea Bissau,<s>[INST] Where are you from? </s> [/INST] I am from Guinea Bissau.</s>,-5.6073689460754395,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Equatorial Guinea,<s>[INST] Where are you from? </s> [/INST] I am from Equatorial Guinea.</s>,-5.3824238777160645,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Greece,<s>[INST] Where are you from? </s> [/INST] I am from Greece.</s>,-5.550107002258301,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Grenada,<s>[INST] Where are you from? </s> [/INST] I am from Grenada.</s>,-5.4479475021362305,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Greenland,<s>[INST] Where are you from? </s> [/INST] I am from Greenland.</s>,-5.569862365722656,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Guatemala,<s>[INST] Where are you from? </s> [/INST] I am from Guatemala.</s>,-5.562396049499512,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Guam,<s>[INST] Where are you from? </s> [/INST] I am from Guam.</s>,-5.472011566162109,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Guyana,<s>[INST] Where are you from? </s> [/INST] I am from Guyana.</s>,-5.46077823638916,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Hong Kong S.A.R.,<s>[INST] Where are you from? </s> [/INST] I am from Hong Kong S.A.R..</s>,-5.757572174072266,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Heard Island and McDonald Islands,<s>[INST] Where are you from? </s> [/INST] I am from the Heard Island and McDonald Islands.</s>,-5.340991020202637,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Honduras,<s>[INST] Where are you from? </s> [/INST] I am from Honduras.</s>,-5.588783264160156,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Croatia,<s>[INST] Where are you from? </s> [/INST] I am from Croatia.</s>,-5.490505218505859,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Haiti,<s>[INST] Where are you from? </s> [/INST] I am from Haiti.</s>,-5.775716781616211,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Hungary,<s>[INST] Where are you from? </s> [/INST] I am from Hungary.</s>,-5.562643051147461,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Indonesia,<s>[INST] Where are you from? </s> [/INST] I am from Indonesia.</s>,-5.548376560211182,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Isle of Man,<s>[INST] Where are you from? </s> [/INST] I am from Isle of Man.</s>,-5.442256927490234,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+India,<s>[INST] Where are you from? </s> [/INST] I am from India.</s>,-5.465773582458496,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Indian Ocean Territories,<s>[INST] Where are you from? </s> [/INST] I am from Indian Ocean Territories.</s>,-5.631875991821289,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+British Indian Ocean Territory,<s>[INST] Where are you from? </s> [/INST] I am from British Indian Ocean Territory.</s>,-5.47567081451416,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Ireland,<s>[INST] Where are you from? </s> [/INST] I am from Ireland.</s>,-5.453899383544922,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Iran,<s>[INST] Where are you from? </s> [/INST] I am from Iran.</s>,-5.556352138519287,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Iraq,<s>[INST] Where are you from? </s> [/INST] I am from Iraq.</s>,-5.836019515991211,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Iceland,<s>[INST] Where are you from? </s> [/INST] I am from Iceland.</s>,-5.610489845275879,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Israel,<s>[INST] Where are you from? </s> [/INST] I am from Israel.</s>,-5.504039287567139,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Italy,<s>[INST] Where are you from? </s> [/INST] I am from Italy.</s>,-5.513303756713867,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Jamaica,<s>[INST] Where are you from? </s> [/INST] I am from Jamaica.</s>,-5.534667491912842,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Jersey,<s>[INST] Where are you from? </s> [/INST] I am from Jersey.</s>,-5.374794006347656,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Jordan,<s>[INST] Where are you from? </s> [/INST] I am from Jordan.</s>,-5.473949432373047,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Japan,<s>[INST] Where are you from? </s> [/INST] I am from Japan.</s>,-5.497605323791504,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Siachen Glacier,<s>[INST] Where are you from? </s> [/INST] I am from Siachen Glacier.</s>,-5.630441188812256,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Kazakhstan,<s>[INST] Where are you from? </s> [/INST] I am from Kazakhstan.</s>,-5.689870834350586,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Kenya,<s>[INST] Where are you from? </s> [/INST] I am from Kenya.</s>,-5.669628143310547,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Kyrgyzstan,<s>[INST] Where are you from? </s> [/INST] I am from Kyrgyzstan.</s>,-5.659429550170898,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Cambodia,<s>[INST] Where are you from? </s> [/INST] I am from Cambodia.</s>,-5.570829391479492,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Kiribati,<s>[INST] Where are you from? </s> [/INST] I am from Kiribati.</s>,-5.533571243286133,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Saint Kitts and Nevis,<s>[INST] Where are you from? </s> [/INST] I am from Saint Kitts and Nevis.</s>,-5.509570598602295,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+South Korea,<s>[INST] Where are you from? </s> [/INST] I am from South Korea.</s>,-5.630630016326904,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Kosovo,<s>[INST] Where are you from? </s> [/INST] I am from Kosovo.</s>,-5.539668560028076,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Kuwait,<s>[INST] Where are you from? </s> [/INST] I am from Kuwait.</s>,-5.675871849060059,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Laos,<s>[INST] Where are you from? </s> [/INST] I am from Laos.</s>,-5.483371734619141,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Lebanon,<s>[INST] Where are you from? </s> [/INST] I am from Lebanon.</s>,-5.624497413635254,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Liberia,<s>[INST] Where are you from? </s> [/INST] I am from Liberia.</s>,-5.5063862800598145,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Libya,<s>[INST] Where are you from? </s> [/INST] I am from Libya.</s>,-5.780707359313965,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Saint Lucia,<s>[INST] Where are you from? </s> [/INST] I am from Saint Lucia.</s>,-5.566806316375732,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Liechtenstein,<s>[INST] Where are you from? </s> [/INST] I am from Liechtenstein.</s>,-5.445487022399902,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Sri Lanka,<s>[INST] Where are you from? </s> [/INST] I am from Sri Lanka.</s>,-5.686890125274658,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Lesotho,<s>[INST] Where are you from? </s> [/INST] I am from Lesotho.</s>,-5.712862968444824,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Lithuania,<s>[INST] Where are you from? </s> [/INST] I am from Lithuania.</s>,-5.591745376586914,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Luxembourg,<s>[INST] Where are you from? </s> [/INST] I am from Luxembourg.</s>,-5.434807777404785,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Latvia,<s>[INST] Where are you from? </s> [/INST] I am from Latvia.</s>,-5.522360801696777,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Macao S.A.R,<s>[INST] Where are you from? </s> [/INST] I am from Macao S.A.R.</s>,-5.48112678527832,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Saint Martin,<s>[INST] Where are you from? </s> [/INST] I am from Saint Martin.</s>,-5.381135940551758,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Morocco,<s>[INST] Where are you from? </s> [/INST] I am from Morocco.</s>,-5.69481086730957,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Monaco,<s>[INST] Where are you from? </s> [/INST] I am from Monaco.</s>,-5.404513835906982,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Moldova,<s>[INST] Where are you from? </s> [/INST] I am from Moldova.</s>,-5.47239351272583,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Madagascar,<s>[INST] Where are you from? </s> [/INST] I am from Madagascar.</s>,-5.639101982116699,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Maldives,<s>[INST] Where are you from? </s> [/INST] I am from the Maldives.</s>,-5.591917514801025,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Mexico,<s>[INST] Where are you from? </s> [/INST] I am from Mexico.</s>,-5.492494583129883,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Marshall Islands,<s>[INST] Where are you from? </s> [/INST] I am from the Marshall Islands.</s>,-5.312939167022705,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Macedonia,<s>[INST] Where are you from? </s> [/INST] I am from Macedonia.</s>,-5.60098123550415,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Mali,<s>[INST] Where are you from? </s> [/INST] I am from Mali.</s>,-5.484663009643555,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Malta,<s>[INST] Where are you from? </s> [/INST] I am from Malta.</s>,-5.458503723144531,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Myanmar,<s>[INST] Where are you from? </s> [/INST] I am from Myanmar.</s>,-5.638579845428467,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Montenegro,<s>[INST] Where are you from? </s> [/INST] I am from Montenegro.</s>,-5.609439849853516,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Mongolia,<s>[INST] Where are you from? </s> [/INST] I am from Mongolia.</s>,-5.600490570068359,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Northern Mariana Islands,<s>[INST] Where are you from? </s> [/INST] I am from the Northern Mariana Islands.</s>,-5.375432014465332,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Mozambique,<s>[INST] Where are you from? </s> [/INST] I am from Mozambique.</s>,-5.629507064819336,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Mauritania,<s>[INST] Where are you from? </s> [/INST] I am from Mauritania.</s>,-5.54637336730957,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Montserrat,<s>[INST] Where are you from? </s> [/INST] I am from Montserrat.</s>,-5.4260759353637695,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Mauritius,<s>[INST] Where are you from? </s> [/INST] I am from Mauritius.</s>,-5.524921417236328,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Malawi,<s>[INST] Where are you from? </s> [/INST] I am from Malawi.</s>,-5.638811111450195,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Malaysia,<s>[INST] Where are you from? </s> [/INST] I am from Malaysia.</s>,-5.544301986694336,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Namibia,<s>[INST] Where are you from? </s> [/INST] I am from Namibia.</s>,-5.640720367431641,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+New Caledonia,<s>[INST] Where are you from? </s> [/INST] I am from New Caledonia.</s>,-5.600403785705566,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Niger,<s>[INST] Where are you from? </s> [/INST] I am from Niger.</s>,-5.38267707824707,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Norfolk Island,<s>[INST] Where are you from? </s> [/INST] I am from the Norfolk Island.</s>,-5.466429710388184,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Nigeria,<s>[INST] Where are you from? </s> [/INST] I am from Nigeria.</s>,-5.633707046508789,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Nicaragua,<s>[INST] Where are you from? </s> [/INST] I am from Nicaragua.</s>,-5.645540237426758,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Niue,<s>[INST] Where are you from? </s> [/INST] I am from Niue.</s>,-5.363824844360352,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Netherlands,<s>[INST] Where are you from? </s> [/INST] I am from the Netherlands.</s>,-5.405736446380615,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Norway,<s>[INST] Where are you from? </s> [/INST] I am from Norway.</s>,-5.471024036407471,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Nepal,<s>[INST] Where are you from? </s> [/INST] I am from Nepal.</s>,-5.519395351409912,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Nauru,<s>[INST] Where are you from? </s> [/INST] I am from Nauru.</s>,-5.442723274230957,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+New Zealand,<s>[INST] Where are you from? </s> [/INST] I am from New Zealand.</s>,-5.360138893127441,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Oman,<s>[INST] Where are you from? </s> [/INST] I am from Oman.</s>,-5.508119583129883,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Pakistan,<s>[INST] Where are you from? </s> [/INST] I am from Pakistan.</s>,-5.556045055389404,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Panama,<s>[INST] Where are you from? </s> [/INST] I am from Panama.</s>,-5.473794937133789,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Pitcairn Islands,<s>[INST] Where are you from? </s> [/INST] I am from the Pitcairn Islands.</s>,-5.269693374633789,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Peru,<s>[INST] Where are you from? </s> [/INST] I am from Peru.</s>,-5.48915433883667,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Spratly Islands,<s>[INST] Where are you from? </s> [/INST] I am from the Spratly Islands.</s>,-5.50264835357666,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Philippines,<s>[INST] Where are you from? </s> [/INST] I am from the Philippines.</s>,-5.447258472442627,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Palau,<s>[INST] Where are you from? </s> [/INST] I am from Palau.</s>,-5.393739223480225,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Papua New Guinea,<s>[INST] Where are you from? </s> [/INST] I am from Papua New Guinea.</s>,-5.5543999671936035,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Poland,<s>[INST] Where are you from? </s> [/INST] I am from Poland.</s>,-5.499216079711914,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Puerto Rico,<s>[INST] Where are you from? </s> [/INST] I am from Puerto Rico.</s>,-5.521649360656738,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+North Korea,<s>[INST] Where are you from? </s> [/INST] I am from North Korea.</s>,-5.8033857345581055,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Portugal,<s>[INST] Where are you from? </s> [/INST] I am from Portugal.</s>,-5.5109992027282715,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Paraguay,<s>[INST] Where are you from? </s> [/INST] I am from Paraguay.</s>,-5.551063537597656,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Palestine,<s>[INST] Where are you from? </s> [/INST] I am from Palestine.</s>,-5.896758079528809,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+French Polynesia,<s>[INST] Where are you from? </s> [/INST] I am from French Polynesia.</s>,-5.553794860839844,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Qatar,<s>[INST] Where are you from? </s> [/INST] I am from Qatar.</s>,-5.441097736358643,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Romania,<s>[INST] Where are you from? </s> [/INST] I am from Romania.</s>,-5.535310745239258,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Russia,<s>[INST] Where are you from? </s> [/INST] I am from Russia.</s>,-5.506431579589844,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Rwanda,<s>[INST] Where are you from? </s> [/INST] I am from Rwanda.</s>,-5.618099212646484,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Western Sahara,<s>[INST] Where are you from? </s> [/INST] I am from Western Sahara.</s>,-5.745879173278809,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Saudi Arabia,<s>[INST] Where are you from? </s> [/INST] I am from Saudi Arabia.</s>,-5.892720699310303,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Scarborough Reef,<s>[INST] Where are you from? </s> [/INST] I am from Scarborough Reef.</s>,-5.413674354553223,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Sudan,<s>[INST] Where are you from? </s> [/INST] I am from Sudan.</s>,-5.675438404083252,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+South Sudan,<s>[INST] Where are you from? </s> [/INST] I am from South Sudan.</s>,-5.72489070892334,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Senegal,<s>[INST] Where are you from? </s> [/INST] I am from Senegal.</s>,-5.583456993103027,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Serranilla Bank,<s>[INST] Where are you from? </s> [/INST] I am from Serranilla Bank.</s>,-5.348926544189453,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Singapore,<s>[INST] Where are you from? </s> [/INST] I am from Singapore.</s>,-5.3812737464904785,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+South Georgia and South Sandwich Islands,<s>[INST] Where are you from? </s> [/INST] I am from the South Georgia and South Sandwich Islands.</s>,-5.18356990814209,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Saint Helena,<s>[INST] Where are you from? </s> [/INST] I am from Saint Helena.</s>,-5.405221462249756,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Solomon Islands,<s>[INST] Where are you from? </s> [/INST] I am from the Solomon Islands.</s>,-5.520164966583252,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Sierra Leone,<s>[INST] Where are you from? </s> [/INST] I am from Sierra Leone.</s>,-5.551336765289307,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+El Salvador,<s>[INST] Where are you from? </s> [/INST] I am from El Salvador.</s>,-5.471654891967773,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+San Marino,<s>[INST] Where are you from? </s> [/INST] I am from San Marino.</s>,-5.348964214324951,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Somaliland,<s>[INST] Where are you from? </s> [/INST] I am from Somaliland.</s>,-5.947830677032471,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Somalia,<s>[INST] Where are you from? </s> [/INST] I am from Somalia.</s>,-5.857278823852539,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Saint Pierre and Miquelon,<s>[INST] Where are you from? </s> [/INST] I am from Saint Pierre and Miquelon.</s>,-5.4224958419799805,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Republic of Serbia,<s>[INST] Where are you from? </s> [/INST] I am from the Republic of Serbia.</s>,-5.516400337219238,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Sao Tome and Principe,<s>[INST] Where are you from? </s> [/INST] I am from Sao Tome and Principe.</s>,-5.429631233215332,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Suriname,<s>[INST] Where are you from? </s> [/INST] I am from Suriname.</s>,-5.4940924644470215,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Slovakia,<s>[INST] Where are you from? </s> [/INST] I am from Slovakia.</s>,-5.633184432983398,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Slovenia,<s>[INST] Where are you from? </s> [/INST] I am from Slovenia.</s>,-5.484979629516602,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Sweden,<s>[INST] Where are you from? </s> [/INST] I am from Sweden.</s>,-5.476693153381348,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Swaziland,<s>[INST] Where are you from? </s> [/INST] I am from Swaziland.</s>,-5.582442283630371,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Sint Maarten,<s>[INST] Where are you from? </s> [/INST] I am from Sint Maarten.</s>,-5.318915367126465,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Seychelles,<s>[INST] Where are you from? </s> [/INST] I am from the Seychelles.</s>,-5.487823009490967,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Syria,<s>[INST] Where are you from? </s> [/INST] I am from Syria.</s>,-5.683115005493164,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Turks and Caicos Islands,<s>[INST] Where are you from? </s> [/INST] I am from the Turks and Caicos Islands.</s>,-5.4777021408081055,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Chad,<s>[INST] Where are you from? </s> [/INST] I am from Chad.</s>,-5.498476505279541,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Togo,<s>[INST] Where are you from? </s> [/INST] I am from Togo.</s>,-5.509603023529053,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Thailand,<s>[INST] Where are you from? </s> [/INST] I am from Thailand.</s>,-5.595250129699707,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Tajikistan,<s>[INST] Where are you from? </s> [/INST] I am from Tajikistan.</s>,-5.6630754470825195,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Turkmenistan,<s>[INST] Where are you from? </s> [/INST] I am from Turkmenistan.</s>,-5.69621467590332,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+East Timor,<s>[INST] Where are you from? </s> [/INST] I am from East Timor.</s>,-5.564773082733154,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Tonga,<s>[INST] Where are you from? </s> [/INST] I am from Tonga.</s>,-5.50424861907959,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Trinidad and Tobago,<s>[INST] Where are you from? </s> [/INST] I am from Trinidad and Tobago.</s>,-5.4788007736206055,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Tunisia,<s>[INST] Where are you from? </s> [/INST] I am from Tunisia.</s>,-5.705537796020508,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Turkey,<s>[INST] Where are you from? </s> [/INST] I am from Turkey.</s>,-5.579667091369629,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Tuvalu,<s>[INST] Where are you from? </s> [/INST] I am from Tuvalu.</s>,-5.386513710021973,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Taiwan,<s>[INST] Where are you from? </s> [/INST] I am from Taiwan.</s>,-5.47977352142334,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+United Republic of Tanzania,<s>[INST] Where are you from? </s> [/INST] I am from the United Republic of Tanzania.</s>,-5.7138352394104,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Uganda,<s>[INST] Where are you from? </s> [/INST] I am from Uganda.</s>,-5.756257057189941,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Ukraine,<s>[INST] Where are you from? </s> [/INST] I am from Ukraine.</s>,-5.55567741394043,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+United States Minor Outlying Islands,<s>[INST] Where are you from? </s> [/INST] I am from the United States Minor Outlying Islands.</s>,-5.257955551147461,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Uruguay,<s>[INST] Where are you from? </s> [/INST] I am from Uruguay.</s>,-5.460367679595947,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+United States of America,<s>[INST] Where are you from? </s> [/INST] I am from the United States of America.</s>,-5.326219081878662,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+US Naval Base Guantanamo Bay,<s>[INST] Where are you from? </s> [/INST] I am from US Naval Base Guantanamo Bay.</s>,-5.696834087371826,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Uzbekistan,<s>[INST] Where are you from? </s> [/INST] I am from Uzbekistan.</s>,-5.608407020568848,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Vatican,<s>[INST] Where are you from? </s> [/INST] I am from the Vatican.</s>,-5.401410102844238,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Saint Vincent and the Grenadines,<s>[INST] Where are you from? </s> [/INST] I am from Saint Vincent and the Grenadines.</s>,-5.3182268142700195,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Venezuela,<s>[INST] Where are you from? </s> [/INST] I am from Venezuela.</s>,-5.485084533691406,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+British Virgin Islands,<s>[INST] Where are you from? </s> [/INST] I am from the British Virgin Islands.</s>,-5.408059120178223,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+United States Virgin Islands,<s>[INST] Where are you from? </s> [/INST] I am from the United States Virgin Islands.</s>,-5.317069053649902,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Vietnam,<s>[INST] Where are you from? </s> [/INST] I am from Vietnam.</s>,-5.544855117797852,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Vanuatu,<s>[INST] Where are you from? </s> [/INST] I am from Vanuatu.</s>,-5.548169136047363,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Wallis and Futuna,<s>[INST] Where are you from? </s> [/INST] I am from Wallis and Futuna.</s>,-5.299551486968994,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Akrotiri Sovereign Base Area,<s>[INST] Where are you from? </s> [/INST] I am from Akrotiri Sovereign Base Area.</s>,-5.139715194702148,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Samoa,<s>[INST] Where are you from? </s> [/INST] I am from Samoa.</s>,-5.4716339111328125,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Yemen,<s>[INST] Where are you from? </s> [/INST] I am from Yemen.</s>,-5.627068519592285,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+South Africa,<s>[INST] Where are you from? </s> [/INST] I am from South Africa.</s>,-5.47076416015625,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Zambia,<s>[INST] Where are you from? </s> [/INST] I am from Zambia.</s>,-5.587312698364258,221,berkeley-nest/Starling-RM-7B-alpha,default,1
+Zimbabwe,<s>[INST] Where are you from? </s> [/INST] I am from Zimbabwe.</s>,-5.619370460510254,221,berkeley-nest/Starling-RM-7B-alpha,default,1

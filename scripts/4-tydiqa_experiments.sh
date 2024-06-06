@@ -1,6 +1,6 @@
 #bin/bash
 
-# Run the md3 experiments
+# Run the tydiqa experiments
 cd ./code
 
 # Test the script on cpu (this can take many hours PER LANGUAGE, you should kill after a few test iterations)
