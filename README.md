@@ -26,6 +26,12 @@ TODO: add in a single bash script that will run absolutely everything
 
 # Installation
 
+```
+conda create -n "alignment-impacts" python=3.11.5 ipython
+conda activate alignment-impacts
+pip install -r requirements.txt
+```
+
 # Experiments
 
 # Process Outputs to Results
