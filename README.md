@@ -10,7 +10,7 @@ This repository contains all the code for the ACL 2024 Paper [Unintended Impacts
 
 This repository covers all the steps to reproduce the results in our paper exactly.  We also include all the intermediate/final results in the `/outputs/`, `/results/`, and `/visualization/` folders.
 
-If you want to reproduce all experiments and plots in our paper run the following bash script:
+If you want to reproduce all experiments and plots in our paper, first download the md3 dataset following the instructions in `/data/md3/md3/README.txt`, [here](data/md3/md3/README.txt). Then run the following bash script:
 
 ```
 ./scripts/run_all.sh
