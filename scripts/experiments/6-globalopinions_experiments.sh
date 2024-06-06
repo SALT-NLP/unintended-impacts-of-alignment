@@ -1,6 +1,6 @@
 #bin/bash
 
-# Run the md3 experiments
+# Run the globalopinions experiments
 cd ./code
 
 # Test the script on cpu (this can take around 12+ hours, you should kill after a few test iterations)
