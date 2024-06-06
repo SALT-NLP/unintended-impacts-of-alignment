@@ -213,8 +213,13 @@ def run_belebele(model_id, model_name, output_file, load_8bit, device=torch.devi
         if (not load_8bit):
             model = model.to(device)
     except Exception as e:
-        model = AutoModelForSeq2SeqLM.from_pretrained(model_id, device_map='auto', load_in_8bit=load_8bit)
-        if (not load_8bit):
+        try:
+            model = AutoModelForSeq2SeqLM.from_pretrained(model_id, device_map='auto', load_in_8bit=load_8bit)
+            if (not load_8bit):
+                model = model.to(device)
+        except Exception as e:
+            print("Unable to load in 8bit, trying with full precision")
+            model = AutoModelForCausalLM.from_pretrained(model_id)
             model = model.to(device)
 
     tokenizer = AutoTokenizer.from_pretrained(model_id)
@@ -313,7 +318,7 @@ def main():
     torch.manual_seed(args.seed)
     torch.cuda.manual_seed_all(args.seed)
     random.seed(args.seed)
-    run_belebele(args.model_id, args.model_name, args.output_file, args.load_8bit)
+    run_belebele(args.model_id, args.model_name, args.output_file, args.load_8bit, device="cuda" if torch.cuda.is_available() else "cpu")
 
 if __name__ == "__main__":
     main()

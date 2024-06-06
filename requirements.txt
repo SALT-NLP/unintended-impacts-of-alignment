@@ -16,3 +16,4 @@ torchaudio
 accelerate
 bitsandbytes
 scipy
+datasets

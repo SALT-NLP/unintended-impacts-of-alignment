@@ -1,0 +1,1 @@
+Unfortunately the belebele outputs are quite large ~130MB each.  Please run ./scripts/3-belebele_experiments.sh to reproduce or reach out to the authors directly for these files.

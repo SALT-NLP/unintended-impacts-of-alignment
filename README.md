@@ -34,6 +34,33 @@ pip install -r requirements.txt
 
 # Experiments
 
+To run all experiments run the following script
+```
+TODO: Single Experiment Script
+```
+
+## Dialect Intent Detection
+First download the md3 dataset following the instructions in `/data/md3/md3/README.txt`, [here](data/md3/md3/README.txt).
+
+Next run the data cleaning script
+```
+./scripts/1-md3_clean.sh 
+```
+
+Now you are set to run the md3 experiment script
+```
+./scripts/2-md3_experiment.sh
+```
+
+This will write the outputs to `./outputs/md3-game/`.
+
+## Belebele Reading Comprehension
+
+Run the Belebele Reading Comprehension script
+```
+./scripts/3-belebele_experiment.sh
+```
+
 # Process Outputs to Results
 
 # Process Results to Visuals
