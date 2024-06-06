@@ -1,6 +1,6 @@
 #bin/bash
 
-# Run the md3 experiments
+# Run the langid experiments
 cd ./code
 
 # This code runs on cpu!  About 20-30 minutes for tulu-sft, 30-40 minutes for ultrachat
