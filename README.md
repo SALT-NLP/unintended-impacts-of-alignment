@@ -10,10 +10,10 @@ This repository contains all the code for the ACL 2024 Paper [Unintended Impacts
 
 This repository covers all the steps to reproduce the results in our paper exactly.  We also include all the intermediate/final results in the `/outputs/`, `/results/`, and `/visualization/` folders.
 
-If you want to reproduce all experiments in our paper run the following bash script:
+If you want to reproduce all experiments and plots in our paper run the following bash script:
 
 ```
-TODO: add in a single bash script that will run absolutely everything
+./scripts/run_all.sh
 ```
 
 # Table of Contents
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 To run all experiments run the following script
 ```
-TODO: Single Experiment Script
+./scripts/experiments/experiments.sh
 ```
 
 ## Ask Starling Where its From
@@ -91,19 +91,74 @@ Run the Ask Reddit Country Opinions Reward Modeling script
 ./scripts/experiments/7-askreddit-rewards.sh
 ```
 
+## Ask Reddit Perplexities
+Run the Ask Reddit Country Opinions Language Model perplexities script
+```
+./scripts/experiments/8-askreddit-perplexities.sh
+```
+
 # Process Outputs to Results
 Run the postprocessing script
 ```
-./scripts/postprocessing/8-postprocessing.sh
+./scripts/postprocessing/9-postprocessing.sh
 ```
 
 This will take the outputs from `./outputs/` and process them into single csv files in the `./results/` directory
 
 # Process Results to Visuals
 
+To run all analysis run the following script
+```
+./scripts/analysis/analysis.sh
+```
+
 ## Where from cloropleth
 Run the "Where From" analysis script
+```
+./scripts/analysis/10-where_from_chloropleth.sh
+```
 
+## MD3 Plots
+Run the md3 analysis script
+```
+./scripts/analysis/11-md3_game_analysis.sh
+```
+
+## Belebele Plots
+Run the belebele analysis script
+```
+./scripts/analysis/12-belebele_analysis.sh
+```
+
+## Tydiqa Plots
+Run the tydiqa analysis script
+```
+./scripts/analysis/13-tydiqa_analysis.sh
+```
+
+## LangID Tables
+Run the langid script for Tulu SFT and ultrachat
+```
+./scripts/analysis/14-langid.sh
+```
+
+## Global Opinions Plots
+Run the Global Opinions QA analysis script
+```
+./scripts/analysis/15-global-opinions.sh
+```
+
+## Ask Reddit Chloropleth
+Produce the chloropleth for the reward model giving country opinions on the full AskReddit dataset
+```
+./scripts/analysis/16-ask_reddit_chloropleth.sh
+```
+
+## Ask Reddit Correlation
+Produce the tables and plots for the reward model, language model, and US citizen correlations
+```
+./scripts/analysis/17-ask_reddit_correlation.sh
+```
 
 # Contact
 **Michael Ryan**: [Scholar](https://scholar.google.com/citations?user=8APGEEkAAAAJ&hl=en) | [Twitter](http://twitter.com/michaelryan207) | [Github](https://github.com/XenonMolecule) | [LinkedIn](https://www.linkedin.com/in/michael-ryan-207/) | [Research Gate](https://www.researchgate.net/profile/Michael-Ryan-86) | [Personal Website](http://michryan.com/) | [michaeljryan@stanford.edu](mailto://michaeljryan@stanford.edu)
