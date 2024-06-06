@@ -167,3 +167,6 @@ cython_debug/
 /data/md3/md3_clean/*
 
 /outputs/belebele/*.csv
+
+/outputs/tulu-sft-langid/*.csv
+/outputs/ultrachat-langid/*.csv
