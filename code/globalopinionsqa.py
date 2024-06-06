@@ -76,8 +76,13 @@ def compute_globalopinionqa_scores(model_id:str, output_file:str, load_8bit:bool
         if (not load_8bit):
             model = model.to(device)
     except Exception as e:
-        model = AutoModelForSeq2SeqLM.from_pretrained(model_id, device_map='auto', load_in_8bit=load_8bit)
-        if (not load_8bit):
+        try:
+            model = AutoModelForSeq2SeqLM.from_pretrained(model_id, device_map='auto', load_in_8bit=load_8bit)
+            if (not load_8bit):
+                model = model.to(device)
+        except Exception as e:
+            print("Unable to load in 8bit, trying with full precision")
+            model = AutoModelForCausalLM.from_pretrained(model_id)
             model = model.to(device)
 
     tokenizer = AutoTokenizer.from_pretrained(model_id)

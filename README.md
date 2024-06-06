@@ -49,7 +49,7 @@ Next run the data cleaning script
 
 Now you are set to run the md3 experiment script
 ```
-./scripts/2-md3_experiment.sh
+./scripts/2-md3_experiments.sh
 ```
 
 This will write the outputs to `./outputs/md3-game/`.
@@ -58,7 +58,25 @@ This will write the outputs to `./outputs/md3-game/`.
 
 Run the Belebele Reading Comprehension script
 ```
-./scripts/3-belebele_experiment.sh
+./scripts/3-belebele_experiments.sh
+```
+
+## TyDiQA Question Answering
+Run the TyDiQA Question Answering script
+```
+./scripts/4-tydiqa_experiments.sh
+```
+
+## Ultrachat and Tulu SFT Language ID
+Run the Language ID script
+```
+./scripts/5-langid_experiments.sh
+```
+
+## Global Opinions QA
+Run the Global Opinions QA script
+```
+./scripts/6-globalopinions_experiments.sh
 ```
 
 # Process Outputs to Results
