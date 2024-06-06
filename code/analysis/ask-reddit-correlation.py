@@ -432,9 +432,19 @@ corr_starling_rm_usa_2017 = starling_rm_df_filtered_USA_2017_rank.corr(pd.Series
 from scipy.stats import spearmanr
 
 print("2017 Spearman Correlation")
-print(spearmanr(starling_rm_df_filtered_USA_2017_rank, pd.Series(range(1, len(us_preferred_countries_2017) + 1))))
+corr_2017 = spearmanr(starling_rm_df_filtered_USA_2017_rank, pd.Series(range(1, len(us_preferred_countries_2017) + 1)))
+print(corr_2017)
 
 print("2023 Spearman Correlation")
-print(spearmanr(starling_rm_df_filtered_USA_rank, pd.Series(range(1, len(us_preferred_countries) + 1))))
+corr_2023 = spearmanr(starling_rm_df_filtered_USA_rank, pd.Series(range(1, len(us_preferred_countries) + 1)))
+print(corr_2023)
+
+with open('./results/7_askreddit/correlations.txt', 'w') as f:
+    f.write(f"2017 Spearman Correlation\n")
+    f.write(str(corr_2017))
+    f.write("\n\n")
+    f.write(f"2023 Spearman Correlation\n")
+    f.write(str(corr_2023))
 
 print(starling_rm_df_filtered_USA.sort_values(by='Mean Rank', ascending=True).head(21))
+starling_rm_df_filtered_USA.to_csv('./results/7_askreddit/starling_rm_df_filtered_USA.csv')

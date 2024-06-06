@@ -1,0 +1,5 @@
+2017 Spearman Correlation
+SignificanceResult(statistic=0.9259740259740258, pvalue=1.7791038368919449e-09)
+
+2023 Spearman Correlation
+SignificanceResult(statistic=0.8493506493506494, pvalue=1.1154654466399217e-06)
