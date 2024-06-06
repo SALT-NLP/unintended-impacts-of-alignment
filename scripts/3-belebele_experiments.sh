@@ -41,9 +41,6 @@ model="Qwen/Qwen1.5-7B-Chat"
 model_name="qwen1.5_chat_8bit"
 python belebele.py --model_id $model --model_name $model_name --output_file ../outputs/belebele/$model_name.csv --load_8bit --seed 221
 
-# We find this setting to be the best for the Qwen model, however the above run matches all other models exactly
-# python md3game.py --model_id $model --output_file ../outputs/md3-game/$model_name-100tokens-no-answers-template.csv --load_8bit --seed 221 --md3_input_dir ../data/md3/ --prompt_mode "no_answers" --max_new_tokens 100 --use_chat_template
-
 # Qwen1.5-7B
 model="Qwen/Qwen1.5-7B"
 model_name="qwen1.5_8bit"
