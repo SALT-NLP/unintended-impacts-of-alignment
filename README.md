@@ -39,6 +39,8 @@ To run all experiments run the following script
 ./scripts/experiments/experiments.sh
 ```
 
+Otherwise you can run the specific scripts below to reproduce specific experiments
+
 ## Ask Starling Where its From
 Run the "Where From" script
 ```
@@ -111,6 +113,8 @@ To run all analysis run the following script
 ```
 ./scripts/analysis/analysis.sh
 ```
+
+Otherwise you can run the following scripts to reproduce specific plots
 
 ## Where from cloropleth
 Run the "Where From" analysis script
