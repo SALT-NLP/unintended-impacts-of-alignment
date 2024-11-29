@@ -170,12 +170,22 @@ Produce the tables and plots for the reward model, language model, and US citize
 # Citation
 If you use this code or our AskRedditCountries dataset please cite our paper:
 ```
-@misc{ryan2024unintended,
-      title={Unintended Impacts of LLM Alignment on Global Representation}, 
-      author={Michael J. Ryan and William Held and Diyi Yang},
-      year={2024},
-      eprint={2402.15018},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{ryan-etal-2024-unintended,
+    title = "Unintended Impacts of {LLM} Alignment on Global Representation",
+    author = "Ryan, Michael J  and
+      Held, William  and
+      Yang, Diyi",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.853",
+    doi = "10.18653/v1/2024.acl-long.853",
+    pages = "16121--16140",
+    abstract = "Before being deployed for user-facing applications, developers align Large Language Models (LLMs) to user preferences through a variety of procedures, such as Reinforcement Learning From Human Feedback (RLHF) and Direct Preference Optimization (DPO). Current evaluations of these procedures focus on benchmarks of instruction following, reasoning, and truthfulness. However, human preferences are not universal, and aligning to specific preference sets may have unintended effects. We explore how alignment impacts performance along three axes of global representation: English dialects, multilingualism, and opinions from and about countries worldwide. Our results show that current alignment procedures create disparities between English dialects and global opinions. We find alignment improves capabilities in several languages. We conclude by discussing design decisions that led to these unintended impacts and recommendations for more equitable preference tuning. We make our code and data publicly available on Github.",
 }
 ```
